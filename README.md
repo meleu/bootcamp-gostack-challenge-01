@@ -3,14 +3,8 @@
 </h1>
 
 <h3 align="center">
-  Challenge #1: NodeJS concepts
+  Challenge #1: NodeJS (and CRUD) concepts
 </h3>
-
-<p align="center">
-  <a href="#rocket-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 ## :rocket: About
 
